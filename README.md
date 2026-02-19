@@ -1,0 +1,1 @@
+This repository contains a collection of three mini-projects built to demonstrate the Strategy Design Pattern. The primary focus of these projects is to practice Composition over Inheritance, adhering to the Open/Closed Principle (OCP), and designing systems where algorithms or behaviors can be swapped dynamically at runtime without altering the context classes.
